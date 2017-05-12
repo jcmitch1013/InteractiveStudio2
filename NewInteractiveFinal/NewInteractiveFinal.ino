@@ -1,3 +1,5 @@
+//*Code by Joshua Mitchell Adapted from VS1053 player_simple Example  Written by Limor Fried/Ladyada for Adafruit Industries. Additions by Allison Berkoy 
+  
 // include SPI, MP3 and SD libraries
 #include <SPI.h>
 #include <Adafruit_VS1053.h>
